@@ -1,2 +1,2 @@
-# golang-notes
-golang学习笔记
+# program-language-notes
+编程语言学习笔记
